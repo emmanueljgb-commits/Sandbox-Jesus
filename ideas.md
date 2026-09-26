@@ -1,0 +1,5 @@
+Dario Amodei es el director ejecutivo de Anthropic , una corporacion de beneficio publico dedicada a la creacion de sistemas de IA que sean controlables, interpretables y seguros .
+
+Anteriormente, Dario fue vicepresidente de investigacion en OpenAI, donde lidero el desarrollo de grandes modelos de lenguaje como GPT-2 y GPT-3. Tambien es co-inventor del aprendizaje por refuerzo a partir de la retroalimentacion humana. Antes de unirse a OpenAI, trabajo en Google Brain como cientifico investigador senior.
+
+Dario obtuvo su doctorado en biofisica por la Universidad de Princeton como becario Hertz, y fue investigador postdoctoral en la Facultad de Medicina de la Universidad de Stanford.
