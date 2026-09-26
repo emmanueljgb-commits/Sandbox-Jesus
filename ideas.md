@@ -5,3 +5,5 @@ Anteriormente, Dario fue vicepresidente de investigacion en OpenAI, donde lidero
 Dario obtuvo su doctorado en biofisica por la Universidad de Princeton como becario Hertz, y fue investigador postdoctoral en la Facultad de Medicina de la Universidad de Stanford.
 
 -Para mi Dario tiene una trayectoria excepcional y admirable, es fascinante las ideas y las ideaologias que pueden cambiar al mundo. Algo que muchas personas pueden pasar por alto, para Dario, una brillante mente, solo fue una oportunidad de interceptar a la sociedad con un nuevo cambio en la IA.
+
+-Jesus
