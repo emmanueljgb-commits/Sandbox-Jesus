@@ -5,3 +5,5 @@ Algunas de las empresas cuyo importancia en la sociedad se me hacen muy relevant
 Siento que el enfoque correcto no es ver quien tiene el modelo de IA mas avanzado, sino que areas especificas pueden los modelos de estas emrpesas abarcar o resover.
 
 Ultimamente a surgido un tema con respecto a la regulacion de la IA, donde los CEOs de las empresas Anthropic y Open AI buscan la seguridad y la regulacion de sus modelos.
+
+En el mundo empresarial y tecnologico, Dario, en mi opinion, ha representado mas el valor moral que Sam.
