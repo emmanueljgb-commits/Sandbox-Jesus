@@ -6,4 +6,9 @@ Dario obtuvo su doctorado en biofisica por la Universidad de Princeton como beca
 
 -Para mi Dario tiene una trayectoria excepcional y admirable, es fascinante las ideas y las ideaologias que pueden cambiar al mundo. Algo que muchas personas pueden pasar por alto, para Dario, una brillante mente, solo fue una oportunidad de interceptar a la sociedad con un nuevo cambio en la IA.
 
+-Ensayos Dario Amodei:
+
+1.-La adolescencia de la tecnologia
+2.- Maquinas de Garcia Amorosa
+
 -Jesus
