@@ -8,4 +8,8 @@ Ultimamente a surgido un tema con respecto a la regulacion de la IA, donde los C
 
 En el mundo empresarial y tecnologico, Dario, en mi opinion, ha representado mas el valor moral que Sam.
 
+Mi perro:
+
+Miperro se a convertido en mi mejor amigo, al no tener hermanos el a sido mi acompanante de vida, soy feliz cuando juego con el y aunque se que no me queda mucho tiempo con el, el poco tiempo que le queda lo vamos a disfrutar al maximo.
+
 -Jesus
