@@ -36,7 +36,7 @@ La mision E, porque antes de borrarlo casi se me olvida que las ramas se suben t
 
 
 **¿Qué harías distinto si mañana rompes algo en un proyecto real de la escuela?**
-primero, verificar cual fue mi error, analizarlo y pensar en una manera optima de solucionarlo, a veces esas cosas pasas, pero como Ingenieros de Software debemos llevar acabo una buena praactica del software o tecnologias que usamos, antes de ejecutar cualquier acción.
+Primero, verificar cual fue mi error, analizarlo y pensar en una manera optima de solucionarlo, a veces esas cosas pasan, pero como Ingenieros de Software debemos llevar acabo una buena practica del software o tecnologias que usamos antes de ejecutar cualquier acción.
 
 
 **Una pregunta que te quedó pendiente para el instructor:**
