@@ -12,3 +12,5 @@ Dario obtuvo su doctorado en biofisica por la Universidad de Princeton como beca
 2.- Maquinas de Garcia Amorosa
 
 -Jesus Emmanuel Gongora Bautista
+
+Sam Altman, CEO de OpenAI, es uno de los principales defensores de la inteligencia artificial a nivel mundial. Criado en St. Louis, Altman abandono la universidad antes de fundar Loopt, una empresa de mapeo social, e iniciar una carrera como inversor de capital riesgo. En 2015, cofundo OpenAI, creadora de ChatGPT, junto con Elon Musk y otros, y se convirtio en CEO en 2019. Continua en este cargo a pesar de la decision de la compania de destituirlo brevemente en 2023. Ademas de su trabajo en IA, Altman es un inversor exitoso y una de las personas mas ricas del mundo gracias a sus participaciones en empresas como Reddit y Stripe.
