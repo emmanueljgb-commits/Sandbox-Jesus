@@ -11,4 +11,4 @@ Dario obtuvo su doctorado en biofisica por la Universidad de Princeton como beca
 1.-La adolescencia de la tecnologia
 2.- Maquinas de Garcia Amorosa
 
--Jesus
+-Jesus Emmanuel Gongora Bautista

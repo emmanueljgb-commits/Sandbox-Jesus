@@ -12,4 +12,4 @@ Mi perro:
 
 Miperro se a convertido en mi mejor amigo, al no tener hermanos el a sido mi acompanante de vida, soy feliz cuando juego con el y aunque se que no me queda mucho tiempo con el, el poco tiempo que le queda lo vamos a disfrutar al maximo.
 
--Jesus
+-Jesus Emmanuel Gongora Bautista
