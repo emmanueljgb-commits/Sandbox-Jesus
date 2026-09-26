@@ -12,7 +12,7 @@ Mi perro:
 
 Miperro se a convertido en mi mejor amigo, al no tener hermanos el a sido mi acompanante de vida, soy feliz cuando juego con el y aunque se que no me queda mucho tiempo con el, el poco tiempo que le queda lo vamos a disfrutar al maximo.
 
--Jesus Emmanuel Gongora Bautista
+-Gongora Bautista Jesus Emmanuel
 
 Porque un perro es leal?
 La explicacion mas sencilla de la lealtad de tu perro es que le das comida y un hogar. Tu perro te esta agradecido porque tiene las necesidades elementales cubiertas y, por lo tanto, te es leal.
